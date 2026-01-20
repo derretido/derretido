@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -44,7 +44,6 @@ Tenho interesse em construir soluções **eficientes, escaláveis e bem estrutur
 
 ### 🧰 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
@@ -71,7 +70,7 @@ Tenho interesse em construir soluções **eficientes, escaláveis e bem estrutur
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Back-end Python**, aplicando **Inteligência Artificial** para criar soluções inovadoras, eficientes e escaláveis, contribuindo com o crescimento técnico da equipe e da empresa.
+Atuar como **Desenvolvedor Back-end Python**, aplicando **Inteligência Artificial** para criar soluções eficientes, escaláveis e de impacto real no negócio.
 
 ---
 
