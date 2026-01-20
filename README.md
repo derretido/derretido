@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Leonardo</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Jr • Back-end / Full Stack</strong>
+  <strong>Desenvolvedor Jr • Back-end Python • Estudante de IA</strong>
 </p>
 
 <p align="center">
@@ -12,35 +12,40 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Jr** com foco em **Back-end**, mas com visão **Full Stack**.  
-Tenho experiência e estudos em **Python, Java e JavaScript**, sempre buscando escrever código limpo, escalável e bem estruturado.
+Sou **Desenvolvedor Jr** com foco em **Back-end em Python**, atualmente estudando **Inteligência Artificial** e aplicações práticas envolvendo automação, análise de dados e integração com sistemas.
 
-💡 Interesses atuais:
-- Desenvolvimento de APIs
-- Back-end com Python e Java
-- Integrações, automações e lógica de negócio
-- Segurança, cloud e boas práticas
+Tenho interesse em construir soluções **eficientes, escaláveis e bem estruturadas**, aplicando boas práticas de desenvolvimento e explorando o uso de IA para resolver problemas reais.
 
-📚 Em constante evolução, estudando e construindo projetos práticos para fortalecer minha base técnica.
+💡 Principais interesses:
+- Back-end com Python
+- APIs REST e automações
+- Inteligência Artificial e Machine Learning
+- Integração de sistemas e lógica de negócio
+
+📚 Sempre aprendendo, testando e evoluindo através de projetos práticos.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Linguagens
+### 🐍 Python & IA
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### ⚙️ Back-end & Web
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### ⚙️ Back-end
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🌐 Web & Integrações
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🧰 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -64,11 +69,11 @@ Tenho experiência e estudos em **Python, Java e JavaScript**, sempre buscando e
 
 ---
 
-## 📌 Objetivo Profissional
+## 🎯 Objetivo Profissional
 
-Construir uma carreira sólida em **Desenvolvimento Back-end**, contribuindo com soluções eficientes, seguras e bem estruturadas, enquanto evoluo tecnicamente e gero valor real para a empresa.
+Atuar como **Desenvolvedor Back-end Python**, aplicando **Inteligência Artificial** para criar soluções inovadoras, eficientes e escaláveis, contribuindo com o crescimento técnico da equipe e da empresa.
 
 ---
 
-📫 **Vamos conversar?**  
-Aberto a oportunidades, networking e troca de conhecimento 🚀
+📫 **Aberto a oportunidades, estágios e networking na área de tecnologia.**  
+Vamos construir algo juntos 🚀
