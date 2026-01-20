@@ -4,7 +4,9 @@
   <strong>Desenvolvedor Jr • Back-end Python • Estudante de IA</strong>
 </p>
 
-<img src="https://c.tenor.com/6128815387503134640/AAAAC/tc.gif" width="420"/>
+<p align="center">
+  <img src="./assets/typing-keyboard-fast.gif" width="420" alt="AI animation"/>
+</p>
 
 ---
 
