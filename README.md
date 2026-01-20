@@ -4,7 +4,7 @@
   <strong>Desenvolvedor Jr • Back-end Python • Estudante de IA</strong>
 </p>
 
-<img src="https://media.tenor.com/6128815387503134640/AAAAC/tc.gif" width="300"/>
+<img src="https://c.tenor.com/6128815387503134640/AAAAC/tc.gif" width="420"/>
 
 ---
 
