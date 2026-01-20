@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/derretido/derretido/blob/output/github-contribution-grid-snake-dark.svg)
-
 <h1 align="center">👋 Hi there, I'm Leonardo</h1>
 
 <p align="center">
