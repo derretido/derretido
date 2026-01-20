@@ -4,9 +4,7 @@
   <strong>Desenvolvedor Jr • Back-end Python • Estudante de IA</strong>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/2z_0HPX6Ga8AAAAC/ai-robot.gif" width="420"/>
-</p>
+<img src="https://media.tenor.com/6128815387503134640/AAAAC/tc.gif" width="300"/>
 
 ---
 
