@@ -86,5 +86,5 @@ Atuar como **Desenvolvedor Back-end Python**, aplicando **Inteligência Artifici
 
 ---
 
-📫 **Aberto a oportunidades, estágios e networking na área de tecnologia.**  
+📫 **Aberto a oportunidades, networking na área de tecnologia.**  
 Vamos construir algo juntos 🚀
