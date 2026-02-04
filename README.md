@@ -14,7 +14,7 @@
 
 Sou **Desenvolvedor Jr** com foco em **Back-end em Python**, atualmente estudando **Inteligência Artificial** e aplicações práticas envolvendo automação, análise de dados e integração com sistemas.
 
-Atualmente faço parte da **ADISRA**, atuando como **Analista Jr**, integrando a equipe responsável por suporte e desenvolvimento, onde trabalho com **C#**, análise de sistemas e resolução de problemas em ambiente corporativo.
+Atualmente faço parte da **ADISRA**, atuando como **Analista Jr**, integrando a equipe responsável por suporte e desenvolvimento, onde trabalho com **C#** e **Python**, análise de sistemas e resolução de problemas em ambiente corporativo.
 
 Tenho interesse em construir soluções **eficientes, escaláveis e bem estruturadas**, aplicando boas práticas de desenvolvimento e explorando o uso de IA para resolver problemas reais.
 
