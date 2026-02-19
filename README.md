@@ -64,8 +64,8 @@ Tenho interesse em construir soluções **eficientes, escaláveis e bem estrutur
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-derretido.vercel.app/api?username=derretido&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats-derretido.vercel.app/api/top-langs/?username=derretido&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=derretido&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derretido&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
