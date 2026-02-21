@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Leonardo</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Jr • Back-end Python • Estudante de IA</strong>
+  <strong>Desenvolvedor Jr • Back-end Python & C# • Estudante de Tecnologia</strong>
 </p>
 
 <p align="center">
@@ -12,43 +12,43 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Jr** com foco em **Back-end em Python**, atualmente estudando **Inteligência Artificial** e aplicações práticas envolvendo automação, análise de dados e integração com sistemas.
+Sou Desenvolvedor Jr com foco em Back-end em **Python** e **C#**, além de explorar outras tecnologias para ampliar meu conhecimento.
 
-Atualmente faço parte da **ADISRA**, atuando como **Analista Jr**, integrando a equipe responsável por suporte e desenvolvimento, onde trabalho com **C#** e **Python**, análise de sistemas e resolução de problemas em ambiente corporativo.
+Atualmente estou me dedicando ao desenvolvimento de projetos práticos, análise de dados e integração de sistemas, sempre aplicando boas práticas de programação e buscando construir soluções eficientes, escaláveis e bem estruturadas.
 
-Tenho interesse em construir soluções **eficientes, escaláveis e bem estruturadas**, aplicando boas práticas de desenvolvimento e explorando o uso de IA para resolver problemas reais.
+Estou em busca da minha primeira oportunidade profissional como Desenvolvedor Jr, onde poderei aplicar minhas habilidades, aprender com a equipe e contribuir para o crescimento da empresa com soluções inovadoras.
+
+Tenho grande interesse em evoluir continuamente como desenvolvedor, expandindo meu conhecimento em arquitetura de software e aplicações robustas.
 
 💡 Principais interesses:
-- Back-end com Python
-- Inteligência Artificial e Machine Learning
+- Back-end com **C#/Python**
 - APIs, automações e integrações
 - Desenvolvimento e manutenção de sistemas em **C#**
 
 📚 Em constante evolução, conciliando experiência profissional com estudos e projetos práticos.
 
-
-💡 Principais interesses:
-- Back-end com Python
-- APIs REST e automações
-- Inteligência Artificial e Machine Learning
-- Integração de sistemas e lógica de negócio
-
-📚 Sempre aprendendo, testando e evoluindo através de projetos práticos.
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🐍 Python & IA
+### 🐍 Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+### ⚙️ C#
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ### ⚙️ Back-end
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🌐 Web & Integrações
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -83,7 +83,7 @@ Tenho interesse em construir soluções **eficientes, escaláveis e bem estrutur
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Back-end Python**, aplicando **Inteligência Artificial** para criar soluções eficientes, escaláveis e de impacto real no negócio.
+Atuar como **Desenvolvedor Back-end Python & C#**, criando soluções eficientes, escaláveis e de impacto real no negócio.
 
 ---
 
